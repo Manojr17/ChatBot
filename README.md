@@ -1,3 +1,13 @@
+Follow me on:
+
+<a href="https://instagram.com/.manoj.09_" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.manoj_.09_" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/manoj0902" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj0902" height="30" width="40" />
+</a>
+
+
 *A chatbot is a software application designed to simulate human conversation. 
 
 *It can interact with users via text or voice, answering questions, providing information, or performing specific tasks automatically.
@@ -31,4 +41,3 @@ Key Features of the MIT License:
     ✅ Modification Allowed – Users can modify the code without restrictions.
     ✅ Distribution Permitted – The software can be shared freely, even in proprietary projects.
     ✅ Attribution Required – You must keep the original copyright notice.
-
