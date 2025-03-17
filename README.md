@@ -6,7 +6,7 @@ Follow me on:
 </a>
 
 
-*A chatbot is a software application designed to simulate human conversation. 
+*A chatbot  is a software application designed to simulate human conversation. 
 
 *It can interact with users via text or voice, answering questions, providing information, or performing specific tasks automatically.
 
